@@ -18,9 +18,11 @@ html{
 }
 body{
     font-family: 'Work Sans', sans-serif;
+    
+}
+.parent{
     overflow-x: hidden;
 }
-
 .container{
    
     padding-left: 15px;
